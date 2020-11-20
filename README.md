@@ -517,6 +517,7 @@ Welcome to register the company name in this issue: https://github.com/alibaba/a
 ![喜百年供应链科技](static/xbn.png)
 ![折耳根科技](static/zheergen.png)
 ![qdama](static/qdm_logo.png)
+![个推](static/getui.jpeg)
 
 ### Derivative Projects
 
